@@ -1,7 +1,7 @@
 # HEllO, I'm Yogender Kumar
 
-## i am a Computer Science Btech Student at IIIT Delhi With experenice in Android and Web Development of 6 months.
-### Currently Exploring the Knowledge Graph.
+## Computer Science and Bioscience Btech Student at IIIT Delhi With experenice in Native Android and Web Development of 6 months.
+### Currently Exploring the Knowledge Graph, Genrative , Ai model to combine with Development.
 
 ![](https://komarev.com/ghpvc/?username=Yogender21505&color=blue&style=flat-square)
 
