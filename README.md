@@ -1,4 +1,4 @@
-# HEllO, I'm Yogender Kumar
+# Hello, I'm Yogender Kumar
 
 ## Computer Science Btech Student at IIIT Delhi With experenice in Native Android and Web Development of 6 months.
 ### Currently Exploring the Knowledge Graph, Genrative , Ai models to combine with Applications.
