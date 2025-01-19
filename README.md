@@ -1,7 +1,7 @@
 # Hello, I'm Yogender Kumar
 
 ## Graduate Computer Science Btech Student at IIIT Delhi 2025.
-### Currently SDE 1 Building India Top Gaming Platform.
+### Currently SDE 1 Building India's Top Gaming Platform.
 
 ![](https://komarev.com/ghpvc/?username=Yogender21505&color=blue&style=flat-square)
 
